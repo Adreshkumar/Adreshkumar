@@ -3,7 +3,7 @@ Hi <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034
 
 AI and Data Science Expert
 ---------------------------
-![Profile Views](https://visitcount.itsvg.in/api?id=AdreshKumar&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=AdreshKumar&icon=0&color=0)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adresh-kumar-ai-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aixeniuslab@gmail.com) 
 # 👋 Hi, I'm Adresh Kumar  
 ### AI Engineer | Data Scientist | Generative AI Enthusiast  
@@ -55,6 +55,5 @@ I enjoy transforming raw data into **intelligent systems and meaningful insights
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AdreshKumar&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&layout=compact&theme=dark)
+
+![](https://nirzak-streak-stats.vercel.app/?user=AdreshKumar&theme=dark&hide_border=false)<br/>
