@@ -3,4 +3,58 @@ Hi <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034
 
 AI and Data Science Expert
 ---------------------------
+![Profile Views](https://visitcount.itsvg.in/api?id=AdreshKumar&icon=0&color=0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adresh-kumar-ai-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aixeniuslab@gmail.com) 
+# 👋 Hi, I'm Adresh Kumar  
+### AI Engineer | Data Scientist | Generative AI Enthusiast  
+
+I build **intelligent, scalable AI solutions** that turn data into real-world impact.  
+Focused on **Machine Learning, Generative AI, and production-ready systems**.
+
+---
+
+## 🚀 What I Do
+- Design and deliver **end-to-end AI & Data Science projects**
+- Build and experiment with **Generative AI & Large Language Models**
+- Develop **data-driven solutions** for real-world problems
+- Work on **scalable ML systems and automation**
+
+---
+
+## 🤝 Open to Collaboration
+- Generative AI, Machine Learning & Deep Learning projects  
+- Data analysis, predictive modeling, and automation  
+- Open-source contributions in AI & Data Science  
+
+---
+
+## 🧠 Currently Learning
+- Advanced **LLMs & Generative AI architectures**
+- Deep Learning optimization techniques
+- **MLOps**, deployment, and system design
+- Modern AI tools beyond Python
+
+---
+
+## 💬 Ask Me About
+- Python for Data Science  
+- Machine Learning & Generative AI concepts  
+- Data preprocessing, model evaluation, and project workflows  
+
+---
+
+## ⚡ Fun Fact
+I enjoy transforming raw data into **intelligent systems and meaningful insights**.
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adresh-kumar-ai-engineer/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aixeniuslab@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AdreshKumar&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&layout=compact&theme=dark)
