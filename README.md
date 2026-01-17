@@ -8,7 +8,7 @@ AI and Data Science Expert
 <p align="left"> <a href="https://www.github.com/AdreshKumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/adresh-kumar-ai-engineer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> 
 </a> </p> 
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aixeniuslab@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aixeniuslab@gmail.com) <p align="left"> <img src="https://komarev.com/ghpvc/?username=adreshkumar&label=Profile%20views&color=00ff00&style=plastic" alt="adreshkumar" /> </p>
 
 ---
 
@@ -65,9 +65,14 @@ I enjoy transforming raw data into **intelligent systems and meaningful insights
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdreshKumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=AdreshKumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/AdreshKumar"><img src="https://github-readme-stats.vercel.app/api?username=AdreshKumar&show_icons=true&hide=prs,issues,&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdreshKumar's GitHub stats" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <a href="https://github.com/AdreshKumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
