@@ -73,7 +73,6 @@ I enjoy transforming raw data into **intelligent systems and meaningful insights
 <div align="left">
 <a href="https://github.com/AdreshKumar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdreshKumar&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdreshKumar&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdreshKumar&theme=dark" height="180em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdreshKumar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </div>
