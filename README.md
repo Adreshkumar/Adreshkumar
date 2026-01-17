@@ -65,16 +65,19 @@ I enjoy transforming raw data into **intelligent systems and meaningful insights
 
 
 # 📊 GitHub Stats:
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![](https://github-readme-stats.vercel.app/api?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdreshKumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AdreshKumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<a href="https://github.com/AdreshKumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdreshKumar&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+<a href="https://github.com/AdreshKumar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdreshKumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdreshKumar&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdreshKumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdreshKumar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdreshKumar&theme=dark" height="180em" />
+</div>
 
 # Top Repositories
 
