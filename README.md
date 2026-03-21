@@ -1,4 +1,4 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="45" /> My name is YOUR NAME
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="45" /> My name is ADRESH KUMAR
 =====================================================================================================================================
 
 Enthusiast Polymath · Founder · Future Stanford Applicant
@@ -182,7 +182,7 @@ Not because someone told me to.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adreshkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=FFFFFF)
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adreshkumar&theme=dark" height="180em" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adreshkumar&theme=algolia)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adreshkumar&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&color=FFFFFF&line=00FFFF&point=ffffff" height="300" alt="activity-graph" />
 
