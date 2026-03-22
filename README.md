@@ -178,7 +178,7 @@ Not because someone told me to.
 
 ![](https://nirzak-streak-stats.vercel.app/?user=adreshkumar&theme=dark&hide_border=false&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF)
 
-![](https://github-readme-stats.vercel.app/api?username=adreshkumar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&title_color=4c71f2F&icon_color=4c71f2)
+![](https://github-readme-stats.vercel.app/api?username=adreshkumar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adreshkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=FFFFFF)
 
