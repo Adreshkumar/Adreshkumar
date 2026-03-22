@@ -200,9 +200,7 @@ Not because someone told me to.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-*Rebuilding from zero · Learning everything · Building in public* 🌍
-
-**YOUR NAME · Started MONTH YEAR · 15 months to Stanford** 🎯
+***Rebuilding from zero · Learning everything · Building in public***  🌍
 
 [![](https://visitcount.itsvg.in/api?id=USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
 
