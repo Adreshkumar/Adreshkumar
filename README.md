@@ -1,7 +1,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="45" /> My name is ADRESH KUMAR
 =====================================================================================================================================
 
-Enthusiast Polymath · Founder · Rebuilding life from Scratch
+Enthusiast Polymath · Founder · Rebuilding my life from Scratch
 ---------------------------
 
 [![](https://visitcount.itsvg.in/api?id=adreshkumar&icon=0&color=6)](https://visitcount.itsvg.in)
@@ -57,7 +57,7 @@ Enthusiast Polymath · Founder · Rebuilding life from Scratch
 
 # 💫 About Me
 
-## Enthusiast Polymath | Founder | Rebuilding life from scratch
+## Enthusiast Polymath | Founder | Rebuilding my life from scratch
 
 I am a curious, self directed learner **rebuilding my life from scratch**
 exploring and studying multiple fields simultaneously, refusing to be
