@@ -47,7 +47,7 @@ Enthusiast Polymath · Founder · Future Stanford Applicant
 <!-- Typing effect -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=700&lines=Enthusiast+Polymath+%F0%9F%A7%A0;Founder+%26+Builder+%F0%9F%9A%80;Rebuilding+Life+From+Zero+%F0%9F%8E%93;Learning+Everything+In+Public+%F0%9F%8C%8D;Rebuilding+From+Zero+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=700&lines=Enthusiast+Polymath+%F0%9F%A7%A0;Founder+%26+Builder+%F0%9F%9A%80;Rebuilding+Life+From+Zero+%E2%9A%A1;Learning+Everything+In+Public+%F0%9F%8C%8D;Rebuilding+From+Zero+%E2%9A%A1" alt="Typing SVG" />
 </a>
 </p>
 
