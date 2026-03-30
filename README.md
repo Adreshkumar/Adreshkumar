@@ -1,7 +1,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="45" /> My name is ADRESH KUMAR
 =====================================================================================================================================
 
-Enthusiast Polymath · Founder · Future Stanford Applicant
+Enthusiast Polymath · Founder · Rebuilding life from Scratch
 ---------------------------
 
 [![](https://visitcount.itsvg.in/api?id=adreshkumar&icon=0&color=6)](https://visitcount.itsvg.in)
@@ -57,7 +57,7 @@ Enthusiast Polymath · Founder · Future Stanford Applicant
 
 # 💫 About Me
 
-## Enthusiast Polymath | Founder | Future Stanford Applicant
+## Enthusiast Polymath | Founder | Rebuilding life from scratch
 
 I am a curious, self directed learner **rebuilding my life from scratch**
 exploring and studying multiple fields simultaneously, refusing to be
@@ -116,7 +116,7 @@ Not because someone told me to.
 - 🤖 AI tools, APIs and agents
 - 📚 Self directed learning and building a curriculum from zero
 - 🚀 Starting a startup with no money
-- 🎓 The Stanford application journey
+- ⚡ My journey
 
 ---
 
